@@ -4,9 +4,9 @@ title: Index
 id: IH5-E3SF-CAK-506
 slug: index
 isVisible: true
-lastUpdated: '2025-07-13 23:30:51'
+lastUpdated: '2025-07-13 23:31:09'
 ---
-# <span align="center"><span class="text-large">Read the F_cking Instructions</span></span>
+# <span align="center"><span class="text-large">Read the F*cking Instructions</span></span>
 
 <div class="sd-grid" data-columns="2"><div class="sd-card" target="_self"><figure><img src="https://github.com/yt3dp/docs/raw/main/images/TtoC6yMEpKeh8WVMlb8q.png"></figure><p><a href="http:#?target=JXO-TPZ-EKP-ARK" target="_self"><span style="color:rgb(0, 40, 93);"><span style="background-color:rgb(255, 255, 255);"><span align="center"><span class="text-large">WARGAMER by FauxHammer </span></span></span></span><span align="center"><span class="text-large">→</span></span></a></p></div><div class="sd-card" target="_self"><figure><img src="https://github.com/yt3dp/docs/raw/main/images/sVhpLDPES5qYiRlvoXQ6.png"></figure><p><a href="http:#?target=2SD-CQ7-K2U-LX4" target="_self"><span align="center"><span class="text-large">DOLLMAKER by Etellan →</span></span></a></p></div></div>
 
