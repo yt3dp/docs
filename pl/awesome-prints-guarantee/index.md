@@ -40,7 +40,7 @@ A few terms to this:
 
 If you're happy with Wargamer, but had a print failure, we'd like to refund the amount you wasted or send you a new bottle.
 
-<figure align="center"><img src="https://github.com/yt3dp/docs/raw/main/images/uXxjvaYEVwkWCEJ9RrKJ.png" align="center"></figure>
+<figure align="center"><img src="https://app.snazzydocs.com/storage/users/Xniulla7ZiAZCeM4/docs/7VBCcNUP9ajJfVFv/images/uXxjvaYEVwkWCEJ9RrKJ.png" align="center"></figure>
 
 Even if it was your own mistake, we're happy to refund you. We'd just like to make sure you end up with great prints when buying Wargamer.
 

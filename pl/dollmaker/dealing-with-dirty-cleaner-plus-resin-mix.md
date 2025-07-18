@@ -1,20 +1,22 @@
 ---
 icon: delete_outline
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
-title: 'Dealing with dirty cleaner+resin mix'
+title: 'Postępowanie z zabrudzoną mieszanką środka czyszczącego i żywicy'
 id: J51-I40R-ZP7-XU5
 slug: dealing-with-dirty-cleaner-plus-resin-mix
 isVisible: true
-lastUpdated: '2025-07-10 19:17:17'
+lastUpdated: '2025-07-18 23:10:51'
 ---
-**Any liquid mixed with resin is toxic. Do not touch it with bare hands, and do not wash it down a drain.**
+**<span style="color:#000000;"><span style="background-color:transparent;">Każda ciecz zmieszana z żywicą jest toksyczna. Nie dotykaj jej gołymi rękami, ani nie wylewaj jej do kanalizacji.</span></span>**
 
-Alcohol can be reused many times for cleaning, but it will eventually become too cloudy to use.
+<span style="color:#000000;"><span style="background-color:transparent;">Alkohol można wielokrotnie używać do czyszczenia, ale z czasem stanie się zbyt mętny, aby go użyć.</span></span>
 
-To dispose of it, the cleaner needs to evaporated, leaving just resin behind. This is best done by leaving the mix outside in the sun in a wide tray/container.
+<span style="color:#000000;"><span style="background-color:transparent;">Aby go zutylizować, środek czyszczący musi odparować, pozostawiając jedynie żywicę. Najlepiej zrobić to, pozostawiając mieszankę na zewnątrz, na słońcu, w szerokiej tacy/pojemniku.</span></span>
 
-The cleaner will evaporate, while the sun's UV rays will cure any leftover resin on the bottom. The cured resin can be safely thrown away.
+<span style="color:#000000;"><span style="background-color:transparent;">Środek czyszczący odparuje, a promienie UV utwardzą resztki żywicy na dnie. Utwardzoną żywicę można bezpiecznie wyrzucić.</span></span>
 
-If leaving the dirty mix outside is not an option, putting a fan in front of the container is a cheap way to speed up evaporation. Any leftover resin can also be cured with a UV light.
+<span style="color:#000000;"><span style="background-color:transparent;">Jeśli pozostawienie brudnej mieszanki na zewnątrz nie jest możliwe, umieszczenie wentylatora przed pojemnikiem to tani sposób na przyspieszenie parowania. Resztki żywicy można również utwardzić lampą UV.</span></span>
 
-Alternatively, you may take the mix to a waste disposal facility in your area.
+<span style="color:#000000;"><span style="background-color:transparent;">Alternatywnie można oddać mieszankę do lokalnego punktu utylizacji odpadów chemicznych.</span></span>
+
+<br />

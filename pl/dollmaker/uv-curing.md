@@ -1,18 +1,22 @@
 ---
 icon: sunny
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
-title: 'UV curing'
+title: 'Utwardzanie UV'
 id: F3M-WXHQ-LKZ-68K
 slug: uv-curing
 isVisible: true
-lastUpdated: '2025-07-10 19:15:55'
+lastUpdated: '2025-07-18 23:07:03'
 ---
-**Post-cure for ~5 minutes using UV light.**
+**<span style="color:#000000;"><span style="background-color:transparent;">Utwardzaj przez około 5 minut światłem UV.</span></span>**
 
-Shorter curing times will leave the prints more flexible.
+<span style="color:#000000;"><span style="background-color:transparent;">Krótszy czas utwardzania sprawi, że wydruki będą bardziej elastyczne.</span></span>
 
-Longer curing times will make the prints stronger, but also more rigid.
+<span style="color:#000000;"><span style="background-color:transparent;">Dłuższy czas utwardzania sprawi, że wydruki będą mocniejsze, ale jednocześnie bardziej sztywne.</span></span>
 
-5 minutes usually gives a good balance between the two, but you can vary this based on your equipment and preferences. 1 minute should be minimum for safety.
+<span style="color:#000000;"><span style="background-color:transparent;">5 minut zazwyczaj zapewnia dobry kompromis między tymi dwoma parametrami, ale możesz go dostosować do swojego sprzętu i preferencji.&nbsp;</span></span> 
 
-After curing, it should now be safe to touch the part with your bare hands.
+<span style="color:#000000;"><span style="background-color:transparent;">1 minuta to minimum dla bezpieczeństwa.</span></span>
+
+<span style="color:#000000;"><span style="background-color:transparent;">Po utwardzeniu dotykanie elementu gołymi rękami powinno być bezpieczne.</span></span>
+
+<br />

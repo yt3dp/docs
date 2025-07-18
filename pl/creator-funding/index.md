@@ -87,13 +87,13 @@ As a guideline, we would expect no more than two pieces of content per month tha
 
 > Got the new Wargamer resin by FauxHammer. It's meant to be perfectly balanced for miniatures, let's see if it's true.
 
-<figure><img src="https://github.com/yt3dp/docs/raw/main/images/LMv0dubNJnGq7XFiy0lw.webp"></figure>
+<figure><img src="https://app.snazzydocs.com/storage/users/Xniulla7ZiAZCeM4/docs/7VBCcNUP9ajJfVFv/images/LMv0dubNJnGq7XFiy0lw.webp"></figure>
 
 ### Example of non-promiment feature:
 
 > Printed a bunch of tanks for my army, can't wait to try out the new painting technique I learned at the painting workshop!! Printed using Wargamer resin.
 
-<figure><img src="https://github.com/yt3dp/docs/raw/main/images/GmfpKcovGWmnodGqcLhf.webp"></figure>
+<figure><img src="https://app.snazzydocs.com/storage/users/Xniulla7ZiAZCeM4/docs/7VBCcNUP9ajJfVFv/images/GmfpKcovGWmnodGqcLhf.webp"></figure>
 
 <div class="sd-callout" data-callout-type="info">Note: We're not very picky with this "prominently featured" thing. Just don't take the piss, please 😄</div>
 

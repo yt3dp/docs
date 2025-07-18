@@ -1,16 +1,18 @@
 ---
 icon: cases
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
-title: Storage
+title: Przechowywanie
 id: 1RK-SYIR-D1E-O2J
 slug: storage
 isVisible: true
-lastUpdated: '2025-07-10 19:16:56'
+lastUpdated: '2025-07-18 23:09:53'
 ---
-**Finished prints should be kept away from moisture and strong UV light.**
+**<span style="color:#000000;"><span style="background-color:transparent;">Gotowe wydruki należy przechowywać z dala od wilgoci i silnego promieniowania UV.</span></span>**
 
-**Liquid resin must be shielded from air, UV light and humidity.**
+**<span style="color:#000000;"><span style="background-color:transparent;">Ciekłą żywicę należy chronić przed dostępem powietrza, promieniowania UV i wilgoci.</span></span>**
 
-If leftover resin in your vat will not be used again for over 24 hours, it is best practice to pour it into an air- and light-proof container.
+<span style="color:#000000;"><span style="background-color:transparent;">Jeśli żywica pozostała w zbiorniku nie będzie ponownie używana przez ponad 24 godziny, najlepiej przelać ją do pojemnika nieprzepuszczającego powietrza i światła.</span></span>
 
-This can be the original resin bottle, but if the resin in the vat is contaminated somehow, it will also contaminate any fresh resin you had left. It's best to use a filter when pouring. Keep the bottles in a cool, dry place away from sunlight.
+<span style="color:#000000;"><span style="background-color:transparent;">Może to być oryginalna butelka po żywicy, ale jeśli żywica w zbiorniku jest w jakiś sposób zanieczyszczona, zanieczyści również pozostałą świeżą żywicę. Podczas przelewania najlepiej używać filtra. Przechowywać butelki w chłodnym, suchym miejscu, z dala od światła słonecznego.</span></span>
+
+<br />

@@ -1,16 +1,14 @@
 ---
 icon: access_time_filled
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
-title: Waiting
+title: Oczekiwanie
 id: P6S-1UMJ-3YY-RP1
 slug: waiting
 isVisible: true
-lastUpdated: '2025-07-10 19:16:05'
+lastUpdated: '2025-07-18 23:08:02'
 ---
-As best practice, wait 24 hours before applying considerable force to your print, like stringing.
+<span style="color:#000000;"><span style="background-color:transparent;">Zgodnie z najlepszą praktyką, odczekaj 24 godziny przed zastosowaniem znacznej siły na wydruku, np. naciągnięciem sznurka.</span></span>
 
-‎
+<span style="color:#000000;"><span style="background-color:transparent;">Żywica ulega poważnym zmianom chemicznym podczas utwardzania i potrzebuje czasu, aby rozproszyć naprężenia wewnętrzne.</span></span>
 
-Resin undergoes serious chemical changes as it cures, and needs some time to dissipate internal stresses.
-
-After a few hours, it will achieve its full strength potential.
+<br />

@@ -1,16 +1,18 @@
 ---
 icon: security
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
-title: Coating
+title: Powłoka
 id: AAU-MKRH-XZ5-5FE
 slug: coating
 isVisible: true
-lastUpdated: '2025-07-10 19:16:45'
+lastUpdated: '2025-07-18 23:09:19'
 ---
-**As best practice, spray the print with a primer or sealer.**
+**<span style="color:#000000;"><span style="background-color:transparent;">Najlepiej spryskać wydruk podkładem lub impregnatem.</span></span>**
 
-This will protect the print from moisture and UV light.
+<span style="color:#000000;"><span style="background-color:transparent;">Zabezpieczy to wydruk przed wilgocią i promieniowaniem UV.</span></span>
 
-It is also very helpful if the finished part will be painted.
+<span style="color:#000000;"><span style="background-color:transparent;">Jest to również bardzo pomocne, jeśli gotowy element będzie malowany.</span></span>
 
-Any brand will work fine.
+<span style="color:#000000;"><span style="background-color:transparent;">Każda marka będzie odpowiednia.</span></span>
+
+<br />

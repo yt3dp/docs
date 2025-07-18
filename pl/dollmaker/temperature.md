@@ -1,16 +1,16 @@
 ---
 icon: device_thermostat
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
-title: Temperature
+title: Temperatura
 id: C8R-0ML0-AN8-8NC
 slug: temperature
 isVisible: true
-lastUpdated: '2025-07-10 00:07:51'
+lastUpdated: '2025-07-18 23:01:41'
 ---
-DOLLMAKER is intended to be used at temperatures between 20-35°C.
+<span style="color:#000000;"><span style="background-color:transparent;">DOLLMAKER jest przeznaczony do użytku w temperaturach od 20 do 35°C.</span></span>
 
-If your ambient temperature is significantly lower than this, consider using a heating method.
+<span style="color:#000000;"><span style="background-color:transparent;">Jeśli temperatura otoczenia jest znacznie niższa, rozważ zastosowanie metody ogrzewania.</span></span>
 
-You can read more about temperature on our blog.
+<span style="color:#000000;"><span style="background-color:transparent;">Więcej informacji na temat temperatury znajdziesz na naszym </span></span> [<span style="color:#000000;"><span style="background-color:transparent;">blogu</span></span>](https://yesthats3dprinted.com/blogs/notes-from-under-fumes)<span style="color:#000000;"><span style="background-color:transparent;">.</span></span>
 
 <br />

@@ -1,20 +1,20 @@
 ---
 icon: shower
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
-title: Washing
+title: Mycie
 id: 39P-7CHO-JRZ-0EG
 slug: washing
 isVisible: true
-lastUpdated: '2025-07-10 19:15:32'
+lastUpdated: '2025-07-18 23:05:39'
 ---
-**Use your preferred cleaning fluid to wash the prints. (eg isopropyl alcohol/IPA, denatured alcohol/methylated spirits, resin detergent. Water is not suitable.)**
+**<span style="color:#000000;"><span style="background-color:transparent;">Użyj preferowanego płynu czyszczącego do mycia wydruków (np. alkoholu izopropylowego/IPA, denaturatu/spirytusu metylowego, detergentu do żywic. Woda nie jest odpowiednia).</span></span>**
 
-‎You can use a dedicated wash unit, or just dunk and rinse in plastic tubs filled with alcohol.
+<span style="color:#000000;"><span style="background-color:transparent;">Możesz użyć specjalnej myjki lub po prostu zanurzyć i wypłukać w plastikowych wannach wypełnionych alkoholem.</span></span>
 
-**Use at least two stages of cleaning.** This means pre-rinse most of the dirt first in a tub, then do a proper wash in clean IPA in a second tub or wash station. Three stages (rinse, rinse, wash) is even better. ([example workflow](https://youtu.be/oCgDm1KfboY?t=86))
+**<span style="color:#000000;"><span style="background-color:transparent;">Zastosuj co najmniej dwa etapy czyszczenia.</span></span>** <span style="color:#000000;"><span style="background-color:transparent;"> Oznacza to, że najpierw spłucz większość zabrudzeń w wannie, a następnie dokładnie umyj w czystym IPA w drugiej wannie lub na stanowisku mycia. Trzy etapy (płukanie, płukanie, mycie) są jeszcze lepsze. (</span></span>[<span style="color:#000000;"><span style="background-color:transparent;">przykładowy schemat działania</span></span>](https://youtu.be/oCgDm1KfboY?t=86)<span style="color:#000000;"><span style="background-color:transparent;">)</span></span>
 
-The total wash time does not need to be too long. You are only removing leftover resin from the surface, not washing the print itself, like a fabric. 1-5 minutes should normally be enough for a piece.
+<span style="color:#000000;"><span style="background-color:transparent;">Całkowity czas mycia nie musi być zbyt długi. Usuwasz jedynie resztki żywicy z powierzchni, a nie myjesz samego wydruku, jak w przypadku tkaniny. 1-5 minut powinno zazwyczaj wystarczyć na jeden egzemplarz.</span></span>
 
-Make sure to clean hollow prints on the inside too.
+<span style="color:#000000;"><span style="background-color:transparent;">Upewnij się, że czyścisz również wklęsłe wydruki od wewnątrz.</span></span>
 
-Do not touch the prints with bare hands until post-curing is done.
+<span style="color:#000000;"><span style="background-color:transparent;">Nie dotykaj wydruków gołymi rękami, dopóki nie zakończy się proces utwardzania.</span></span>

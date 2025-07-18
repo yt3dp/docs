@@ -1,16 +1,18 @@
 ---
 icon: local_printshop
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
-title: Printing
+title: Drukowanie
 id: 1SK-F0WF-460-YYS
 slug: printing
 isVisible: true
-lastUpdated: '2025-07-10 19:15:07'
+lastUpdated: '2025-07-18 23:03:49'
 ---
-**Pour in carefully, and start your print.**
+**<span style="color:#000000;"><span style="background-color:transparent;">Ostrożnie wlej żywicę i rozpocznij drukowanie.</span></span>**
 
-Do not leave the resin bottle open for too long. Extended exposure to air and light deteriorates the material.
+<span style="color:#000000;"><span style="background-color:transparent;">Nie pozostawiaj butelki z żywicą otwartej zbyt długo. Dłuższe wystawienie na działanie powietrza i światła pogarsza jakość materiału.</span></span>
 
-If you need to add more resin to the vat, make sure this is the same temperature as what is already inside.
+<span style="color:#000000;"><span style="background-color:transparent;">Jeśli musisz dodać więcej żywicy do kadzi, upewnij się, że ma ona taką samą temperaturę, jak ta, która jest już w środku.</span></span>
 
-Once printing is finished, it is best practice to retrieve the part as soon as possible. If left for a long time, it could start soaking humidity from the air around it.
+<span style="color:#000000;"><span style="background-color:transparent;">Po zakończeniu drukowania najlepiej jak najszybciej wyjąć element. Pozostawiony na dłuższy czas może zacząć wchłaniać wilgoć z otaczającego powietrza.</span></span>
+
+<br />
