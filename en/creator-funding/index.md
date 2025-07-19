@@ -4,13 +4,13 @@ title: Index
 id: 4K9-HCKD-4G9-Q7Y
 slug: index
 isVisible: true
-lastUpdated: '2025-07-15 23:07:25'
+lastUpdated: '2025-07-19 22:53:09'
 ---
-Hey!
+# Hey!
 
-Creators giving a chance to our products is the main way we've grown this business.
+**Creators giving a chance to our products is the main way we've grown this business.**
 
-We owe everything to them.
+**We owe everything to them.**
 
 <iframe src="https://www.youtube.com/embed/GHaXqyT-OLw?showinfo=0" frameborder="0" allowfullscreen="true" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" width="100%" style="" class=""></iframe>
 
