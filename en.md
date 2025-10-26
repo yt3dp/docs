@@ -164,8 +164,9 @@ Dry your print thoroughly. It must be bone dry inside and outside.
 ## Drying
 <!-- panels:start -->
 <!-- div:left-panel -->
+
 !>**Do not skip this step.**  
-!>Wet prints will come out sticky and soft.
+Wet prints will come out sticky and soft.
 
 Wargamer needs a bit more time to dry than most other resins.
 
@@ -183,5 +184,18 @@ Wargamer needs a bit more time to dry than most other resins.
 - A room fan or leaving the print outside can greatly help this process.
 
 <!-- div:left-panel -->
+
 ![](https://github.com/yt3dp/docs/raw/main/images/Vzh5PeHPT48tQG1GRAGS.webp ":no-zoom")
+
 <!-- panels:end -->
+
+## UV Curing
+
+?> **Post-cure for ~5 minutes using UV light.**
+
+- Shorter curing times will leave the prints more flexible.
+- Longer curing times will make the prints stronger, but also more rigid.
+- 5 minutes usually gives a good balance between the two, but you can vary this based on your equipment and preferences. 1 minute should be minimum for safety.
+- After curing, it should now be safe to touch the part with your bare hands.
+
+![](https://github.com/yt3dp/docs/raw/main/images/lX9hw8pmQncI95M3fZZq.webp ":no-zoom")
