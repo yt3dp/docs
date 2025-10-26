@@ -101,3 +101,87 @@ Shaking will usually create some bubbles inside the resin. Wait a few minutes un
 <!-- div:right-panel -->
 ![](https://github.com/yt3dp/docs/raw/main/images/v6xZ0SasJyVJWcQk8ScE.webp ":no-zoom")
 <!-- panels:end -->
+
+## Washing
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+You can choose between washing with water or IPA. The end result is the same, but the workflow is a bit different.
+
+- **Water washing** is more manual, but a nicer experience.
+- **IPA** is less work, but a stinky chemical to deal with.
+- We generally recommend IPA to professionals, and water to hobbyists.
+
+**In either case, do not wash the print in direct sunlight/UV light.**  
+This will semi-cure the unwashed liquid resin, and leave the prints sticky.
+<!-- div:right-panel -->
+![](https://github.com/yt3dp/docs/raw/main/images/quYaBZyHKHsw66qYVBmw.webp ":no-zoom")
+<!-- panels:end -->
+
+<!-- panels:start -->
+<!-- div:left-panel -->
+### Washing with Water
+
+Spray the print with clean water using a spray bottle. Catch any dripping wastewater in a tray.  
+([Great demo video by Micron Monster](https://youtu.be/MZImcueoSzs))
+
+- **Total wash time per piece should not exceed 1 minute.** Wargamer cleans very easily. Washing it for a long time will NOT make it cleaner, it will make it soak up liquid and become sticky.
+- Make the spray strong and quick. You just need to remove the liquid resin left on the surface of the print, without making the print itself very wet.
+- Make sure to clean hollow prints on the inside too.
+- We don't recommend using a wash unit or dunking into tubs. The water inside gets 'muddy' immediately, and will not clean as well. A spray also creates much less wastewater.
+- **The print needs to be bone dry before curing.** If it feels overly sticky, it is most likely still wet. See below for drying. A minimal amount of tackiness is ok, this is usually just because it hasn't been cured yet.
+
+<!-- div:right-panel -->
+
+### Washing with IPA
+
+You can wash Wargamer in IPA just like any standard resin. ([Example](https://www.youtube.com/watch?v=oCgDm1KfboY))
+
+But look out for three things:
+
+- **Use at least two stages of cleaning.** (Eg. 30s pre-rinse + 30s wash in clean IPA)
+- **Total wash time per piece should not exceed 1 minute.** Wargamer cleans very easily. Washing it for a long time will NOT make it cleaner, it will make it soak up liquid and become sticky.
+- Make sure to clean hollow prints on the inside too.
+- **The print needs to be bone dry before curing.** If it feels overly sticky, it is most likely still wet. See below for drying. A minimal amount of tackiness is ok, this is usually just because it hasn't been cured yet.
+
+<!-- panels:end -->
+
+> 🤔 **Prints still sticky after washing and drying? [Contact us](mailto:info@yesthats3dprinted.eu) for help.**
+
+
+### Dealing with Dirty Water/IPA
+
+!> **Any liquid mixed with resin is toxic.**
+
+- Do not touch it with bare hands, and do not wash it down a drain.
+- Water can only be used once for cleaning. IPA can be reused many times, but it will eventually be too cloudy to use.
+- The contaminated water/IPA needs to evaporate, leaving just resin behind. This is best done by leaving the mix outside in the sun in a wide tray/container.
+- The water/IPA will evaporate, while the sun's UV rays will cure any leftover resin on the bottom. The cured resin can be safely thrown away.
+- If leaving it outside is not an option, putting a fan in front of the container is a cheap way to speed up evaporation. Any leftover resin can also be cured with a UV light.
+
+Dry your print thoroughly. It must be bone dry inside and outside.
+
+## Drying
+<!-- panels:start -->
+<!-- div:left-panel -->
+!>**Do not skip this step.**  
+!>Wet prints will come out sticky and soft.
+
+Wargamer needs a bit more time to dry than most other resins.
+
+### Active Drying
+
+- Pat away most of the moisture with paper towels or a cloth.
+- Dry thoroughly with a blow dryer, [blow dryer oven](https://www.youtube.com/watch?v=gkNfD_CO3T8), food dehydrator, filament dryer, etc.
+- Drying temperature should not exceed 40°C. High heat will start to melt your prints, and make them feel sticky.
+- If they feel stickier after drying than before, cool them down with cold air before curing.
+
+### Air Drying
+
+- Pat away most of the moisture with paper towels or a cloth.
+- If washed with IPA, leave for a few hours. If washed with water, leave overnight.
+- A room fan or leaving the print outside can greatly help this process.
+
+<!-- div:left-panel -->
+![](https://github.com/yt3dp/docs/raw/main/images/Vzh5PeHPT48tQG1GRAGS.webp ":no-zoom")
+<!-- panels:end -->
